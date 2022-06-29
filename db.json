@@ -1,0 +1,66 @@
+{
+  "api/v1/test": {
+    "name": "auston"
+  },
+  "activeApps": {
+    "success": true,
+    "data": {
+      "active_apps": [
+        {
+          "app_id": "b5bf46e7-a267-4e57-94dc-a4d7cfa702d8",
+          "active_user_count": 3180,
+          "active_ws_count": 3391
+        },
+        {
+          "app_id": "3f05860c-c126-4b59-aee6-dc9bce2dd9cc",
+          "active_user_count": 3616,
+          "active_ws_count": 6464
+        },
+        {
+          "app_id": "093e9aed-e79b-40ee-ac38-ed09ad4dfbff",
+          "active_user_count": 3325,
+          "active_ws_count": 5451
+        },
+        {
+          "app_id": "25918336-46eb-44fb-907e-52d21823967a",
+          "active_user_count": 8394,
+          "active_ws_count": 2501
+        },
+        {
+          "app_id": "08950bc5-9ac1-4027-a795-356a8a55fcf3",
+          "active_user_count": 9304,
+          "active_ws_count": 8258
+        },
+        {
+          "app_id": "355894e7-3e0e-4e53-8b95-3003ea0d37c7",
+          "active_user_count": 7900,
+          "active_ws_count": 3106
+        },
+        {
+          "app_id": "8ee3a9a3-efa7-416b-8eca-da58279921ee",
+          "active_user_count": 5009,
+          "active_ws_count": 5050
+        },
+        {
+          "app_id": "5b77fe6d-964b-43ab-8585-ceabd0d434b8",
+          "active_user_count": 6171,
+          "active_ws_count": 4801
+        },
+        {
+          "app_id": "8ec2d42f-300a-4d28-bf1d-e5d29954fa7d",
+          "active_user_count": 4019,
+          "active_ws_count": 9648
+        },
+        {
+          "app_id": "712d9037-f2ef-44df-9671-61fd30b8490b",
+          "active_user_count": 3836,
+          "active_ws_count": 704
+        }
+      ],
+      "total": 2794,
+      "region": "eu",
+      "skip": 1,
+      "limit": 10
+    }
+  }
+}
